@@ -1,3 +1,5 @@
 /dataset/news_v1.csv
 /dataset/*
 !/dataset/newsCategoriesCount.csv
+/checkpoints
+/model
